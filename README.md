@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Yeasin Arafat</h1>
 <h3 align="center">A Passionate Offensive Security Researcher and Blockchain Developer</h3>
-<img align="right" alt="Coding" width="400" src=”https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif”>
+<img align="right" alt="Coding" width="200" src=”https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberninja-x&label=Profile%20views&color=0e75b6&style=flat" alt="cyberninja-x" /> </p>
 
