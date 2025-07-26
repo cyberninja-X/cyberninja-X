@@ -1,6 +1,6 @@
 ![MasterHead](https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
 <h1 align="center">Hi 👋, I'm Md Yeasin Arafat</h1>
-<h3 align="center">A Passionate Offensive Security Researcher and Blockchain Developer</h3>
+<h3 align="center">A Passionate Cyber Security Researcher</h3>
 <img align="right" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/media/9d5b235345e9ba01547e5176a1e285d6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberninja-x&label=Profile%20views&color=0e75b6&style=flat" alt="cyberninja-x" /> </p>
